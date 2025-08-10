@@ -1,12 +1,10 @@
-<div style="text-align: center;">
-  <div>
-	<span style="font-size: 36px;"> ~</span>
-    <span style="font-size: 20px; color: #999;"> Hello World, </span>
-    <span style="font-size: 36px; font-weight: bold; color: #222;">I’m Khalid Hassan</span>
-    <span style="font-size: 36px;"> ~</span>
-  </div>
-  Transforming Ideas into Beautiful Apps
-</div>
+<p align="center">
+  <small style="color:gray">~ Hello World,</small>
+  <br>
+  <b style="font-size: 36px;">I’m Khalid Hassan</b>
+  <br>
+  <em>Transforming Ideas into Beautiful Apps</em>
+</p>
 
 
 ### Hi there 👋
