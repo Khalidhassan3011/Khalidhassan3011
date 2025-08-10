@@ -1,5 +1,11 @@
-<h1 align="center">~ Hello World, I’m Khalid Hassan ~</h1>
-<h6 align="center"> <em> Transforming Ideas into Beautiful Apps <em></h6>
+<p align="center">
+  ~ Hello World, <b>I’m Khalid Hassan</b> ~
+</p>
+
+<p align="center">
+  <em>Transforming Ideas into Beautiful Apps</em>
+</p>
+---
 
 <img src="https://komarev.com/ghpvc/?username=Khalidhassan3011&abbreviated=true&style=flat&base=1763" alt="Profile views" />
 
