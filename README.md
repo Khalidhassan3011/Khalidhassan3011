@@ -1,7 +1,12 @@
-<h1 align="center" style="text-decoration:none;">~ Hello World, I’m Khalid Hassan ~</h1>
-<h3 align="center"> Transforming Ideas into Beautiful Apps </h3>
-
-![](https://komarev.com/ghpvc/?username=Khalidhassan3011&abbreviated=true&style=flat)
+<div style="text-align: center;">
+  <div>
+	<span style="font-size: 36px;"> ~</span>
+    <span style="font-size: 20px; color: #999;"> Hello World, </span>
+    <span style="font-size: 36px; font-weight: bold; color: #222;">I’m Khalid Hassan</span>
+    <span style="font-size: 36px;"> ~</span>
+  </div>
+  Transforming Ideas into Beautiful Apps
+</div>
 
 
 ### Hi there 👋
@@ -32,3 +37,4 @@ I hold a strong background in **Agile software development** and have shipped ap
 ## 📫 Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/khalid3011/)
+![](https://komarev.com/ghpvc/?username=Khalidhassan3011&abbreviated=true&style=flat&base=1763)
