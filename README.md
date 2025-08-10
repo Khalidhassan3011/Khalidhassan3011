@@ -1,10 +1,7 @@
-<p align="center">
-  <small style="color:gray">~ Hello World,</small>
-  <br>
-  <b style="font-size: 36px;">I’m Khalid Hassan</b>
-  <br>
-  <em>Transforming Ideas into Beautiful Apps</em>
-</p>
+<h1 align="center">~ Hello World, I’m Khalid Hassan ~</h1>
+<h6 align="center"> <em> Transforming Ideas into Beautiful Apps <em></h6>
+
+<h6 align="center"> ![](https://komarev.com/ghpvc/?username=Khalidhassan3011&abbreviated=true&style=flat&base=1763)</h6>
 
 
 ### Hi there 👋
